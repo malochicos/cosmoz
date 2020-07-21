@@ -1,0 +1,19 @@
+{
+    "name": "Deletion Reason",
+    "description": "Redirects moderators to the \"New Message\" screen after deleting a comment.",
+    "version": "1.0",
+    ".settingsPermission": "Garden.Settings.Manage",
+    ".settingsUrl": "settings/deletionreason",
+    "hasLocale": false,
+    "mobileFriendly": true,
+    "license": "GNU GPL2",
+    "gitHub": "bleistivt/deletionreason",
+    "key": "deletionreason",
+    "type": "addon",
+    "authors": [
+        {
+            "name": "Bleistivt",
+            "homepage": "http://bleistivt.net"
+        }
+    ]
+}
